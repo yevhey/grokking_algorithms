@@ -16,6 +16,6 @@ def binary_search(sorted_arr, item):
     return None
 
 MY_LIST = [1, 3, 5, 7]
-"""printing result of search"""
+
 print binary_search(MY_LIST, 5)
 print binary_search(MY_LIST, 6)
